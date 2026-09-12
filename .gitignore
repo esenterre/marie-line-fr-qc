@@ -1,0 +1,27 @@
+# Audio / modèles générés (non publiés)
+*.wav
+*.mp3
+*.flac
+*.mp4
+*.safetensors
+*.ckpt
+*.pt
+*.log
+
+# Les extraits d'écoute publiés restent commitables
+!samples/*.wav
+
+# Répertoires de travail
+work_dir*/
+training_logs*/
+datasets/
+exports/
+.pretrained/
+__pycache__/
+*.pyc
+
+# OS / IDE
+Thumbs.db
+.DS_Store
+.idea/
+.vscode/

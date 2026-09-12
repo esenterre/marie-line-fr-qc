@@ -1,0 +1,300 @@
+Bonjour, comment ça va aujourd'hui ?
+Ben là, j'prends mon café pis j'me réveille tranquille.
+Y fait vraiment beau, on devrait sortir.
+Bonsoir, bonne soirée à vous tous.
+Salut, ça fait longtemps qu'on s'est vus.
+Prends soin de toé, pis bonne journée.
+J'espère que tu vas pas oublier ton parapluie.
+Autrement dit, on va être en retard.
+M'as te rappeler plus tard, j'ai pas le temps là.
+D'accord, ça marche, on se voit demain.
+C'est ben correct, pas de trouble.
+Ah ben voyons donc, ça se peut pas !
+C'est drôle en titi, j'y crois pas.
+Fais attention à toé, le plancher est glissant.
+Je suis tannée de la pluie, moi.
+Donne-moi une minute, j'arrive tantôt.
+J't'aime beaucoup, tu le sais-tu ?
+C'est quoi c'te téléphone qui sonne tout le temps ?
+J'vas fêter ça avec une bonne liqueur à la fraise.
+On va jaser un peu avant de partir, ça presse pas.
+Allume la lumière de la cuisine, s'il te plaît.
+Éteins les lumières du salon.
+Monte la température du thermostat à vingt et un degrés.
+Baisse le chauffage dans la chambre des enfants.
+Mets le chauffage à vingt-trois degrés.
+Programme la cafetière pour demain matin à sept heures.
+Règle une alarme dans vingt minutes.
+Arrête l'alarme, c'est pas encore le matin.
+Rappelle-moi de sortir les poubelles à huit heures.
+Éteins la télévision dans le salon.
+Joue de la musique douce dans le bureau.
+Augmente le volume de la musique, c'est pas assez fort.
+Diminue le volume, les voisins vont se plaindre.
+Pause la musique deux secondes.
+Reprends la musique au même endroit.
+Ouvre les rideaux du salon, on a besoin de lumière.
+Ferme les stores de la chambre.
+Verrouille la porte d'en avant.
+Déverrouille la porte arrière.
+Arrose les plantes s'il n'a pas plu depuis trois jours.
+Vérifie la caméra de l'entrée.
+Affiche l'image de la caméra extérieure sur le téléviseur.
+Rappelez-moi qu'on a un invité ce soir.
+Es-tu certain que la porte est fermée ?
+Le lave-vaisselle est-il terminé ?
+Prends une photo de la pièce principale.
+Mets le mode vacances pour la maison.
+La température du congélateur est de moins dix-huit degrés.
+Signale si une fenêtre reste ouverte plus d'une heure.
+Donne le statut de toutes les lumières du sous-sol.
+Il pleut des cordes dehors, sors ton manteau.
+Il neige depuis hier soir à Sainte-Adèle.
+La température va être de moins douze degrés.
+Le vent va souffler fort sur la rive sud.
+Le ciel est couvert pour toute la journée.
+On prévoit du soleil en fin de semaine.
+Une tempête arrive dimanche soir.
+Il fait humide, on va avoir des orages.
+La météo annonce trente-cinq degrés avec l'humidex.
+Il fait frette ce matin, vingt degrés de moins.
+L'heure du coucher du soleil est à vingt heures dix-sept.
+Le soleil se lève à six heures quarante-cinq.
+On est le onze septembre deux mille vingt-six.
+Il est exactement dix heures et quart.
+Le train part dans trente-cinq minutes.
+La réunion commence à quatorze heures trente.
+J'ai rendez-vous chez le dentiste à neuf heures.
+Le verglas est prévu pour demain sur les autoroutes.
+La poudrerie va réduire la visibilité.
+Bonne journée avec un maximum de vingt-deux degrés.
+Il va faire beau, mais venteux cette après-midi.
+Les routes sont glissantes, conduis prudemment.
+Il tombe quinze centimètres de neige cette nuit.
+La température de l'eau est à dix-neuf degrés.
+On aura du gros soleil après le dîner.
+Va chercher du pain à la boulangerie du coin.
+On a besoin de lait pis de beurre.
+Achète des pommes, des bananes et du fromage.
+J'ai oublié de ranger la nourriture dans le frigo.
+Nettoie le comptoir de la cuisine, s'il te plaît.
+Passe l'aspirateur dans le salon.
+Lave le plancher de l'entrée.
+Fais la vaisselle avant de te coucher.
+Sors le recyclage, c'est mardi.
+Mets le linge dans la sécheuse.
+Étends le linge dehors, on a du beau temps.
+Repasse les chemises pour demain.
+L'eau est bouillante, mets les pâtes.
+Prépare-toi un bon souper de frite pis de hot-dog.
+Le four est préchauffé à cent quatre-vingts degrés.
+Cuis le poulet quarante-cinq minutes.
+Ajoute du sel et du poivre, pas trop.
+Le gâteau est prêt, il reste juste à le glacer.
+Va chercher de l'eau, le puits est au fond de la cour.
+Mets les tomates dans le garde-manger, pas au froid.
+J'ai chaud, peux-tu ouvrir la fenêtre ?
+J'ai un peu faim, on a des restes ?
+Je suis fatigué aujourd'hui, j'ai mal dormi.
+As-tu passé un bel été ?
+Crois-tu qu'il va pleuvoir ce soir ?
+Aimes-tu ta nouvelle job ?
+Est-ce que c'est vrai que tu repars en voyage ?
+J'espère que tout le monde se souvient de ses affaires.
+As-tu vu le dernier film au cinéma ?
+Quelle heure est-il à Québec en ce moment ?
+Tu sais-tu c'est qui qui a appelé ?
+Est-ce que tu peux m'aider à porter ça ?
+Veux-tu un autre café ?
+Prends-tu des nouvelles de ta famille ?
+Ça va ben, pis toé ?
+Es-tu content de ton nouveau char ?
+Comment s'est passée ta journée ?
+On fait-tu un tour au parc cet après-midi ?
+T'as-tu vu les nouvelles ce matin ?
+Ça te dérange-tu si j'ouvre la fenêtre ?
+T'es ben mieux de te coucher tôt ce soir.
+Je me demande si on aura congé demain.
+Crois-tu qu'on devrait changer le toit ?
+C'est quoi ton opinion là-dessus ?
+Tu peux-tu me passer le sel, s'il te plaît ?
+Chu pas mal content de mon nouveau cellulaire.
+M'as m'en aller faire un tour icitte dans un bout.
+Fait que j'ai pensé à toé, pis je t'ai appelée.
+T'sé, c'est pas vraiment compliqué, ça.
+Le char est pas mal économe, il consomme pas gros.
+On va prendre un café au dépanneur du coin.
+J'vas faire des commissions à la quincaillerie.
+Mets tes tuques et tes mitaines, il fait frette.
+On s'en va souper chez belle-maman.
+Ben voyons, t'es sérieux, tu veux pas sortir ?
+C'est ben du fun, une bonne veillée en famille.
+Pendant qu'on y est, on va acheter du sirop d'érable.
+J'ai vu un orignal au bord du chemin.
+Il s'est acheté une maison à la campagne.
+La poutine à la patate rouge, c'est la meilleure.
+Astheure, on ramasse nos affaires pis on part.
+Ça marche à peu près, même si c'est pas parfait.
+Y fait ben trop chaud dans les chars cet été.
+Donne-moi donc le téléphone, j'vas appeler moé-même.
+C'est gentil de passer nous voir comme ça.
+On va manger de la tire sur la neige.
+J'trouve ça plate que le magasin soit fermé le dimanche.
+Mets de la neige dans le traîneau, les enfants.
+On va faire une raclette au fromage de chez nous.
+Le hockey à la télé, c'est toute une émission.
+Prends pas le champ, on est pressés.
+J'aimerais ben ça faire un voyage en Gaspésie.
+On a du bon monde dans notre entourage.
+Fais du feu dans le poêle, ça va réchauffer la maison.
+T'as beau dire, la gigue pis la danse, c'est dans nos racines.
+Ce matin, j'ai pris le bus pour aller travailler.
+Le métro arrive dans dix minutes.
+Je vais marcher jusqu'au magasin général.
+Mets ta ceinture de sécurité, c'est la loi.
+Les enfants sont revenus de l'école à seize heures.
+Le train arrête à Drummondville.
+On achète des billets pour le spectacle de dimanche.
+La bibliothèque est ouverte jusqu'à dix-sept heures.
+Le livre sur la table en arrière est à moi.
+M'as mettre un peu d'essence avant de partir.
+L'auto arrête pas de faire du bruit.
+La toiture est en train de couler dans le coin.
+On a une bonne récolte de tomates cette année.
+Les feuilles tombent déjà, c'est l'automne.
+J'adore l'odeur du café frais le matin.
+Fais réparer la pompe à eau dès que possible.
+La porte du garage est restée ouverte toute la nuit.
+On va faire un feu de foyer ce soir dans la cour.
+Qu'est-ce qu'on mange pour souper cette semaine ?
+Je te rapporterai ton livre demain midi.
+La réunion est reportée à vendredi matin.
+Écris-moi ta liste d'épicerie et j'irai la chercher.
+Le colis est arrivé, il est sur le perron.
+Tu me prêtes-tu ta perceuse pour la fin de semaine ?
+De quoi on parle finalement à cette assemblée ?
+J'ai hâte de voir les résultats du match.
+La fournaise fait un drôle de bruit ce matin.
+Les fenêtres embarquent pas demain, on appelle le vitrier.
+Devine qui j'ai rencontré au marché public ?
+La visite de la ferme est prévue à treize heures.
+Le sentier de randonnée part du stationnement.
+On grimpe jusqu'au sommet au lever du soleil.
+Le chalet est isolé, mais il est confortable.
+La traverse du fleuve à Lévis, c'est du beau monde.
+Je pense qu'on va pogner une congère malgré tout.
+M'as passer au guichet automatique avant le dîner.
+As-tu pensé à payer la facture d'Hydro ?
+La facture d'électricité est arrivée plus tôt que prévu.
+On va faire un tour du côté du bord de l'eau.
+Le chalet en hauteur, ça vaut la peine de se déplacer.
+Je m'ennuie pas une minute avec toi.
+C'est le temps de changer les pneus pour l'hiver.
+Les pneus d'hiver sont obligatoires au Québec.
+On a hâte de flâner dans les rues du Vieux-Québec.
+Le gars du restaurant a pris notre commande vite.
+Il était en train de réparer son vélo dans la cour.
+Je vais te faire un café serré comme tu l'aimes.
+On descend au sous-sol chercher les décorations.
+La boîte de vieux albums est dans le grenier.
+Il m'a prêté sa tondeuse pour la fin de semaine.
+Le prix du gaz a encore monté cette semaine.
+M'as l'essayer avant de l'acheter, c'est plus prudent.
+La maison a besoin d'un coup de peinture sur la galerie.
+Mon frère arrive du Saguenay demain soir.
+La parenté vient souper à Noël, tout le monde s'en vient.
+Les atouts de notre village, c'est le calme pis la nature.
+On va bruncher au resto du coin dimanche matin.
+La tarte au sucre refroidit sur le bord de la fenêtre.
+Les biscuits aux pépites sont presque brûlés.
+Passe-moi la crème glacée, s'il te plaît.
+On célèbre la Saint-Jean sur le bord du fleuve.
+Le feu d'artifice commence à vingt-deux heures.
+On va chanter des chansons le soir au camp.
+La guitare est accordée, on peut jouer.
+Mon voisin tond sa pelouse tous les samedis matin.
+Les écureuils ont encore mangé les tomates du jardin.
+Il faut nettoyer les gouttières avant les grosses pluies.
+Le toit de la remise a une tôle qui a bougé.
+On a fini de clôturer le terrain du côté sud.
+La galerie a besoin d'un nouveau barbeau au bout.
+Viens t'asseoir, on va jaser des vacances.
+T'es mieux d'embrayer le poêle des fois qu'il fasse froid.
+On va remplir la glacière pour le pique-nique.
+Le pain du dépanneur est encore frais ce matin.
+J'ai mis le parapluie dans le coffre de l'auto.
+La van est pleine, on part dans vingt minutes.
+Remplis la laveuse de linge blanc.
+Sors le tapis pour le secouer dans la cour.
+J'ai hâte de goûter à la soupe aux légumes.
+La livre de bœuf est au congélateur, en bas.
+On va acheter un dix milles pour la fête.
+La tourtière est un classique du temps des fêtes.
+Les cretons sur le pain, ça fait fureur au brunch.
+M'as faire une sauce aux raisins pour le jambon.
+La pâtisserie prépare des beignes tout frais le samedi.
+Le yogourt grec est pas mal épais aujourd'hui.
+Mets le lait en arrière du frigo.
+C'est le temps de faire le grand ménage du printemps.
+On vient de recevoir une grosse facture de toiture.
+La caserne de pompiers est au coin de la rue.
+Le détecteur de fumée a sonné deux fois cette nuit.
+Enlève la pile du détecteur avant qu'il braille.
+Le garage démarre mieux l'hiver quand il est branché.
+La souffleuse est réparée, on peut déneiger.
+On va sortir le matin, la pelle est dans le hangar.
+Les patins sont affûtés pour la partie de hockey.
+La pente de la rue est glacée, fais attention.
+Travaille du coin de l'œil sur l'écran, ça sauve du temps.
+T'es mieux de mettre tes bottes, y a de la sloche partout.
+Le motoneige fait du bruit la nuit.
+La pêche est bonne dans le lac près du camp.
+On va collaborer pour lever le canot sur la grève.
+Les poissons mordent pas mal ce matin.
+Prépare deux lignes de plus pour la journée.
+Le kayak de mon frère est rouge pis bleu.
+On descend la rivière jusqu'au barrage.
+Le canot a chaviré près du rapide, on est corrects.
+La boussole pointe vers le nord, l'été.
+On s'arrête pour casser la croûte au bord de l'eau.
+La tente est montée en dix minutes.
+Le feu de camp sent bon le bois franc.
+Les marsouins sautent dans le fleuve.
+Le vignoble de Dunham fait un vin de pays pas pire.
+On commence le trajet de bonne heure demain.
+Le garde forestier nous a salués au poste.
+Les photos de la randonnée sont sur ma caméra.
+Le journal local écrit beaucoup sur les travaux.
+La rue est en réfection pour l'été.
+Le marché aux puces est ouvert le dimanche.
+On va dresser la table dehors pour profiter du soir.
+Il y a un nouveau resto chinois proche de l'école.
+Commande deux combos avec des frites.
+As-tu un peu de monnaie pour le pourboire ?
+La serveuse est ben gentille avec les clients.
+Le patron tient un café sous la verrière de la boutique.
+On file au parc après le souper.
+Les enfants jouent à cache-cache dans le verger.
+La récolte de framboises est presque finie.
+On va faire des confitures ce week-end.
+Prépare les pots, j'arrive avec plein de fruits.
+La confiture de fraises est la préférée de Josiane.
+Mets des étiquettes sur les pots qui sont faits.
+Le sous-sol est humide, aère-le après la pluie.
+La moisissure commence à apparaître sur le mur.
+Appelle le marchand de patates pour la livraison.
+Le déshumidificateur est au complet, branche-le.
+La plomberie coule au lavabo de la salle de bain.
+Coupe l'eau avant de dévisser les tuyaux.
+Passe le produit dans le drain principal.
+La fosse septique est à vidanger cette année.
+On va faire tester l'eau du puits au labo.
+Les plants de tomates ont ben profité du soleil.
+Arrose les géraniums sur la galerie.
+Coupe les fleurs fanées du parterre.
+La tondeuse a besoin d'une lame neuve.
+Affûte les outils du jardin une fois par automne.
+Le compost est prêt à retourner.
+On jette le gazon coupé sur le compost.
+La clôture a besoin d'un renfort dans le coin.
+On se retrouve au garage à sept heures pile.
